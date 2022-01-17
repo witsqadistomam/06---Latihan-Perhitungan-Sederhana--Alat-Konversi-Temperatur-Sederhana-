@@ -21,7 +21,7 @@ print("suhu sekarang adalah ", F, 'Fahrenheit')
 
 K = ((5/9) * (F - 32)) + 273
 
-print("Suhu dalam Fahrenheit menjadid ", K, 'Kelvin')
+print("Suhu dalam Fahrenheit menjadi ", K, 'Kelvin')
 
 
 
@@ -32,4 +32,4 @@ print("suhu sekarang adalah ", K, 'Kelvin')
 
 F = ((9/5) * (K - 273)) + 32
 
-print("Suhu dalam Fahrenheit menjadid ", F, 'Fahrenheit')
+print("Suhu dalam Fahrenheit menjadi ", F, 'Fahrenheit')
